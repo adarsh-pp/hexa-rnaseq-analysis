@@ -25,6 +25,16 @@ Interestingly, in this analysis:
 
 <code>FASTQ → QC → Trimming → Alignment → Quantification → Differential Expression → Functional Analysis</code>
 
+## 📦 Requirements
+
+- R (≥ 4.0)
+- DESeq2
+- ggplot2
+- biomaRt
+- gprofiler2
+- ReactomePA
+- STRINGdb
+  
 ## 🧪 Methods
 🔹 Quality Control & Trimming
 -  FastQC
