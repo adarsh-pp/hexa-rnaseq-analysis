@@ -75,6 +75,9 @@ Interestingly, in this analysis:
 - PCA plot → clear clustering of case vs control samples
 - Volcano plot → strong differential expression signal
 - Heatmap → distinct gene expression patterns
+- PCA → Grouping of the samples
+- Gprofiler plot → Enrichment results
+- Reactome pathway plots → Pathways withs differentially expressed genes
 - STRING network → interconnected functional modules
 
 ## ⚠️ Limitations
