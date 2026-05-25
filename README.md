@@ -1,4 +1,4 @@
-# 🧬 RNA-seq Analysis of HEXA-Associated Neurodevelopmental Abnormalities
+# 🧬 RNA-seq Analysis of _HEXA_-Associated Neurodevelopmental Abnormalities
 
 ## 📌 Overview
 
