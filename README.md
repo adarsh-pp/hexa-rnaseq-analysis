@@ -2,17 +2,17 @@
 
 ## 📌 Overview
 
-This project investigates transcriptomic alterations in foetal brain tissue samples carrying HEXA gene mutations, associated with severe developmental abnormalities.
+This project investigates transcriptomic alterations in foetal brain tissue samples carrying _HEXA_ gene mutations, associated with severe developmental abnormalities.
 
 RNA-seq data from affected and control samples were analysed to identify differentially expressed genes and disrupted biological pathways contributing to the observed pathology.
 
 ## 🧠 Background
 
-The HEXA gene encodes a lysosomal enzyme responsible for degradation of GM2 gangliosides in neuronal cells. Mutations in HEXA impair this function, leading to toxic accumulation and neurodevelopmental defects.
+The _HEXA_ gene encodes a lysosomal enzyme responsible for degradation of GM2 gangliosides in neuronal cells. Mutations in _HEXA_ impair this function, leading to toxic accumulation and neurodevelopmental defects.
 
 Interestingly, in this analysis:
 
->No significant change in HEXA expression was observed, suggesting that pathology arises from functional impairment rather than transcriptional dysregulation.
+>No significant change in _HEXA_ expression was observed, suggesting that pathology arises from functional impairment rather than transcriptional dysregulation.
 
 ## 📂 Data
 - 5 paired-end RNA-seq samples
@@ -79,7 +79,7 @@ Interestingly, in this analysis:
 - Dysregulation of GPCR signalling suggests altered neuronal communication
 
 ⚠️ Key Observation
->HEXA expression unchanged → pathology likely due to enzyme dysfunction, not expression-level changes
+>_HEXA_ expression unchanged → pathology likely due to enzyme dysfunction, not expression-level changes
 
 ## 📈 Visualisations
 - PCA plot → clear clustering of case vs control samples
@@ -105,7 +105,7 @@ Pipeline scripts are available in the scripts/ directory for:
 
 ## 🔥 Key Takeaway
 
-This analysis demonstrates that HEXA mutations lead to widespread disruption of neurodevelopmental pathways, rather than direct transcriptional changes in HEXA itself.
+This analysis demonstrates that _HEXA_ mutations lead to widespread disruption of neurodevelopmental pathways, rather than direct transcriptional changes in HEXA itself.
 
 These findings highlight the importance of pathway-level dysregulation in understanding developmental disorders.
 
