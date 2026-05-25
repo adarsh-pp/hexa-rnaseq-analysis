@@ -105,7 +105,7 @@ Pipeline scripts are available in the scripts/ directory for:
 
 ## 🔥 Key Takeaway
 
-This analysis demonstrates that _HEXA_ mutations lead to widespread disruption of neurodevelopmental pathways, rather than direct transcriptional changes in HEXA itself.
+This analysis demonstrates that _HEXA_ mutations lead to widespread disruption of neurodevelopmental pathways, rather than direct transcriptional changes in _HEXA_ itself.
 
 These findings highlight the importance of pathway-level dysregulation in understanding developmental disorders.
 
